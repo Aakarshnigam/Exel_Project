@@ -1,27 +1,28 @@
-# Exel_Project
+# Excel-Entertainment Movie Success Analysis
+
 **Objectives:**
 
-Understand financial trends in movie budgets and box office earnings.
+#Understand financial trends in movie budgets and box office earnings.
 
-Analyze genre popularity evolution over time.
+#Analyze genre popularity evolution over time.
 
-Evaluate performance of different production houses.
+#Evaluate performance of different production houses.
 
 **Methodology:**
 
-Cleaned and imported movie data in Excel for accuracy.
+#Cleaned and imported movie data in Excel for accuracy.
 
-Utilized pivot tables and advanced charting for visualization.
+#Utilized pivot tables and advanced charting for visualization.
 
-Applied forecasting techniques for future trend projections.
+#Applied forecasting techniques for future trend projections.
 
 **Key Insights:**
 
-Identified top production houses and their success rates.
+#Identified top production houses and their success rates.
 
-Explored genre trends and their impact on audience appeal and profitability.
+#Explored genre trends and their impact on audience appeal and profitability.
 
-Conducted financial forecasting for future gross earnings.
+#Conducted financial forecasting for future gross earnings.
 
 **Dashboard Components:**
 
